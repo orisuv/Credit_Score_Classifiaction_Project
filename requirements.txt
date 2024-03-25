@@ -1,0 +1,14 @@
+scikit-learn
+pandas
+numpy
+lightgbm
+xgboost
+catboost
+autogluon
+pycaret
+matplotlib
+opencv-python
+pillow
+optuna
+bayesian-optimization
+
